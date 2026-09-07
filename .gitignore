@@ -1,0 +1,12 @@
+# 코드·실행파일은 절대 올리지 않는다 (exe 는 Releases 에만)
+*.py
+*.pyd
+*.c
+*.exe
+*.json
+*.txt
+*.bat
+*.spec
+build/
+dist/
+__pycache__/
